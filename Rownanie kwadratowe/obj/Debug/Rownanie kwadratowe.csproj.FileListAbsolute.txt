@@ -1,0 +1,11 @@
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\bin\Debug\Rownanie kwadratowe.exe.config
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\bin\Debug\Rownanie kwadratowe.exe
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\bin\Debug\Rownanie kwadratowe.pdb
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\obj\Debug\Rownanie kwadratowe.csproj.SuggestedBindingRedirects.cache
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\obj\Debug\Rownanie_kwadratowe.Properties.Resources.resources
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\obj\Debug\Rownanie kwadratowe.csproj.GenerateResource.cache
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\obj\Debug\Rownanie kwadratowe.csproj.CoreCompileInputs.cache
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\obj\Debug\Rownanie kwadratowe.exe
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\obj\Debug\Rownanie kwadratowe.pdb
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\obj\Debug\Rownanie kwadratowe.csproj.AssemblyReference.cache
+C:\Users\wkupi\source\repos\Rownanie kwadratowe\Rownanie kwadratowe\obj\Debug\Rownanie_kwadratowe.Form1.resources
